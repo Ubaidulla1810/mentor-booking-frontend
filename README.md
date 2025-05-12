@@ -118,7 +118,7 @@ Made with 🤍 by Ubaidulla khan. Mentor Booking Platform.
 Connect with Me:
 
 * If you have any feedback or suggestions, feel free to reach out:
-* Email: ubaidullacse01@gmail.com
+* Email: ubaidulla.cse01@gmail.com
 * GitHub: [Ubaidulla1810](https://github.com/Ubaidulla1810)
 
 ---
